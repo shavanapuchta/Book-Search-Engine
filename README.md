@@ -42,6 +42,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 Site
 
-Deployed Site: 
+Deployed Site: http://127.0.0.1:5500/client/public/index.html
 
 GitHub URL: https://github.com/shavanapuchta/Book-Search-Engine
